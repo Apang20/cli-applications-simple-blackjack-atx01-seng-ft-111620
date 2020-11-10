@@ -59,6 +59,5 @@ def runner
     card_total = hit?(card_total)
     display_card_total
   end 
-  puts "Your cards add up to #{card_total}"
 end
     
