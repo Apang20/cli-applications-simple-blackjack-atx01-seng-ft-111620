@@ -59,6 +59,6 @@ def runner
     card_total = hit?(card_total)
     display_card_total
   end 
- puts "Sorry, you hit #{card_total}. Thanks for playing!"
+ end_game()
 end
     
